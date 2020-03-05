@@ -1,0 +1,5 @@
+C:\Users\dguerrero\Desktop\Curso\Demo\05 Modelo\ModelDemo\bin\Debug\ModelDemo.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\05 Modelo\ModelDemo\bin\Debug\ModelDemo.pdb
+C:\Users\dguerrero\Desktop\Curso\Demo\05 Modelo\ModelDemo\obj\Debug\ModelDemo.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\05 Modelo\ModelDemo\obj\Debug\ModelDemo.pdb
+C:\Users\dguerrero\Desktop\Curso\Demo\05 Modelo\ModelDemo\obj\Debug\ModelDemo.csprojResolveAssemblyReference.cache

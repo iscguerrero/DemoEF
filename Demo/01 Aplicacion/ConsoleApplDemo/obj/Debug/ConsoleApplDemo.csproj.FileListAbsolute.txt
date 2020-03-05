@@ -1,0 +1,14 @@
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\ConsoleApplDemo.exe.config
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\ConsoleApplDemo.exe
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\ConsoleApplDemo.pdb
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\EntityFramework.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\ModelDemo.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\PersistenciaDemo.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\PersistenciaDemo.pdb
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\ModelDemo.pdb
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\EntityFramework.xml
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\obj\Debug\ConsoleApplDemo.csprojResolveAssemblyReference.cache
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\obj\Debug\ConsoleApplDemo.exe
+C:\Users\dguerrero\Desktop\Curso\Demo\01 Aplicacion\ConsoleApplDemo\obj\Debug\ConsoleApplDemo.pdb

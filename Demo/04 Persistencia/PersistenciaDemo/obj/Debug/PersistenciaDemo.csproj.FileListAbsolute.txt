@@ -1,0 +1,17 @@
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\obj\Debug\PersistenciaDemo.csprojResolveAssemblyReference.cache
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\PersistenciaDemo.dll.config
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\PersistenciaDemo.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\PersistenciaDemo.pdb
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\EntityFramework.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\ModelDemo.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\ModelDemo.pdb
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\EntityFramework.xml
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\obj\Debug\PersistenciaDemo.dll
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\obj\Debug\PersistenciaDemo.pdb
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\obj\Debug\PersistenciaDemo.Migrations.Inicial.resources
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\obj\Debug\PersistenciaDemo.csproj.GenerateResource.Cache
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\obj\Debug\PersistenciaDemo.Migrations.ImplementaBitácora.resources
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\obj\Debug\PersistenciaDemo.Migrations.Agregaentidadesnn.resources
+C:\Users\dguerrero\Desktop\Curso\Demo\04 Persistencia\PersistenciaDemo\obj\Debug\PersistenciaDemo.Migrations.AgregaIdRegistroaBitacora.resources
